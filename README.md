@@ -7,6 +7,13 @@ Status: Stage 1
 
 [View TC39 Slides](https://docs.google.com/presentation/d/e/2PACX-1vSg1tyW2ALwSGR83qcKRQ4__T36CzvwOoPP9ywPpjuFxljmDaBHqKPAY6UFuLor4GHgxuB8WYj3OoIL/pub?start=false&loop=false&delayms=3000)
 
+## Overlap with First-Class Protocols Proposal
+
+This proposal and the [First-Class Protocols Proposal](https://github.com/michaelficarra/proposal-first-class-protocols) overlap in some of the 
+problem and solution space that they cover. At the January 2018 meeting of TC39 it was agreed
+to let both be at Stage 1 with the intention to work together to identify the common problems
+they target and possibly a unified proposal.
+
 ## Goals
 
   * Pave existing cowpath of the subclass factory pattern with a declarative syntax
