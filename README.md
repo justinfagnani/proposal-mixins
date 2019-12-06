@@ -232,7 +232,7 @@ class A extends B with M {
 Desugars to:
 
 ```js
-class extends M(B) {
+class A extends M(B) {
   // ...
 }
 ```
